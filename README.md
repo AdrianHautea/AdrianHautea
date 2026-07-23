@@ -16,7 +16,7 @@ of a production platform serving 700+ students, and finishing my portfolio site.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Sensora](https://github.com/AdrianHautea/Sensora) | 🏆 Hackathon winner — CV pipeline scores study focus and pushes LLM nudges to embedded hardware | Python · CLIP · LangChain · Gemini · Flask |
+| [Sensora](https://github.com/AdrianHautea/Sensora) · [▶ Demo](https://www.youtube.com/watch?v=_SV6jQipoL4) | 🏆 Hackathon winner — CV pipeline scores study focus and pushes LLM nudges to embedded hardware | Python · CLIP · LangChain · Gemini · Flask || Python · CLIP · LangChain · Gemini · Flask |
 | [ThreadConnect](https://github.com/AdrianHautea/ThreadConnect) | Multimodal semantic search — match image or text to clothing via vector similarity | Python · CLIP · Qdrant · Flask |
 | [Simmer](https://github.com/acm-projects/Simmer) | Hands-free voice-guided cooking assistant with AI recipe generation | LangChain · Gemini · Flask · Supabase |
 
