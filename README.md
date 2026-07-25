@@ -10,7 +10,7 @@ of a production platform serving 700+ students, and finishing my portfolio site.
 ## What I'm working on
 
 - **[FSA Web Platform](https://www.utdfsa.org/)** — Production membership, events, and payments system for UTD Filipino Student Association. Next.js · TypeScript · Supabase · Stripe · AWS S3
-- **Portfolio** — [adrianhautea.dev](https://www.adrianhautea.com/)
+- **Portfolio** — [adrianhautea.com](https://www.adrianhautea.com/)
 
 ## Projects
 
