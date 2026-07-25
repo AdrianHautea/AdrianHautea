@@ -1,6 +1,6 @@
 # Adrian Hautea
 
-CS @ UT Dallas · GPA 3.94 · Fast Track Master's · Dec 2026 (B.S) · May 2028 (M.S)
+CS @ UT Dallas · GPA 3.94 · Fast Track Master's · Dec 2026 (B.S.) · May 2028 (M.S.)
 
 Building AI systems and backend infrastructure. Currently leading full-stack development
 of a production platform serving 700+ students, and finishing my portfolio site.
