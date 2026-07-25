@@ -10,7 +10,7 @@ of a production platform serving 700+ students, and finishing my portfolio site.
 ## What I'm working on
 
 - **[FSA Web Platform](https://www.utdfsa.org/)** — Production membership, events, and payments system for UTD Filipino Student Association. Next.js · TypeScript · Supabase · Stripe · AWS S3
-- **Portfolio** — [adrianhautea.dev](https://portfolio-alpha-eosin-60.vercel.app/) *(in progress)*
+- **Portfolio** — [adrianhautea.dev](https://www.adrianhautea.com/)
 
 ## Projects
 
@@ -37,4 +37,4 @@ cloud      = ["AWS S3", "Vercel", "Stripe", "Google OAuth"]
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/adrianhautea) · [Portfolio](https://portfolio-alpha-eosin-60.vercel.app/) · adrian.hautea@gmail.com
+[LinkedIn](https://linkedin.com/in/adrianhautea) · [Portfolio](https://www.adrianhautea.com/) · adrian.hautea@gmail.com
